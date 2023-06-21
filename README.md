@@ -64,6 +64,5 @@ http://localhost:3000/
 
 ## Más sobre el proyecto:
 
-```sh
-https://drive.google.com/file/d/1EBOi6ae4cspoDaw4vJz0YQre7lu3IwSR/view?usp=sharing
-```
+* https://drive.google.com/file/d/1EBOi6ae4cspoDaw4vJz0YQre7lu3IwSR/view?usp=sharing
+
