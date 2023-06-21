@@ -62,15 +62,8 @@ Tener instalado Node JS (versión 16.17.0 LTS o superior)
 http://localhost:3000/
 ```
 
-## Contacto.
+## Más sobre el proyecto:
 
-Julián Rosas Scull - julian.rosas@ciencias.unam.mx
-
-Ricardo Flores Mata - ricardo_fm77@ciencias.unam.mx
-
-Link del proyecto - https://github.com/julian-rosas/Proyecto01
-
-
-
-
-
+```sh
+https://drive.google.com/file/d/1EBOi6ae4cspoDaw4vJz0YQre7lu3IwSR/view?usp=sharing
+```
